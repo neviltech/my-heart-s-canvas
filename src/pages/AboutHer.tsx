@@ -23,7 +23,7 @@ const AboutHer = () => {
         <div className="text-center opacity-0 animate-fade-up space-y-4">
           <Sparkles className="w-6 h-6 text-rose-accent mx-auto" />
           <h1 className="font-display text-4xl sm:text-6xl font-light tracking-wide text-foreground">
-            About Her
+            About <span className="text-gradient-rose italic">Izeel</span>
           </h1>
           <p className="font-body text-muted-foreground text-lg font-light">
             The one who changed everything
