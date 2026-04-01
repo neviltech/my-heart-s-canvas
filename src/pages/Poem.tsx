@@ -33,7 +33,7 @@ const Poem = () => {
         <div className="opacity-0 animate-fade-up space-y-4">
           <Feather className="w-6 h-6 text-rose-accent mx-auto float-animation" />
           <h1 className="font-display text-4xl sm:text-5xl font-light tracking-wide text-foreground">
-            A Poem for You
+            A Poem for <span className="text-gradient-rose italic">Izeel</span>
           </h1>
         </div>
 

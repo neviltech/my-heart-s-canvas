@@ -62,7 +62,7 @@ const AboutHer = () => {
           <div className="text-center space-y-2">
             <Heart className="w-5 h-5 text-rose-accent mx-auto" />
             <h2 className="font-display text-2xl sm:text-3xl font-light text-foreground">
-              Why I Love Her
+              Why I Love Izeel
             </h2>
           </div>
           <div className="grid gap-4 sm:grid-cols-2">
