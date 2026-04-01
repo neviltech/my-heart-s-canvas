@@ -16,7 +16,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2 group">
           <Heart className="w-5 h-5 text-rose-accent group-hover:scale-110 transition-transform duration-300" />
           <span className="font-display text-xl font-semibold tracking-wide text-foreground">
-            For You
+            For Izeel
           </span>
         </Link>
         <div className="flex items-center gap-8">

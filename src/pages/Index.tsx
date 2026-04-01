@@ -13,7 +13,7 @@ const Index = () => {
         <div className="opacity-0 animate-fade-up space-y-4">
           <Heart className="w-8 h-8 text-rose-accent mx-auto float-animation" />
           <h1 className="font-display text-5xl sm:text-7xl font-light tracking-wide text-foreground">
-            For You <span className="text-rose-accent">❤️</span>
+            For <span className="text-gradient-rose italic">Izeel</span> <span className="text-rose-accent">❤️</span>
           </h1>
         </div>
 
