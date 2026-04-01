@@ -7,6 +7,7 @@ import Navbar from "@/components/Navbar";
 import Index from "./pages/Index.tsx";
 import AboutHer from "./pages/AboutHer.tsx";
 import Poem from "./pages/Poem.tsx";
+import Gallery from "./pages/Gallery.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
@@ -22,6 +23,7 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<AboutHer />} />
           <Route path="/poem" element={<Poem />} />
+          <Route path="/gallery" element={<Gallery />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
