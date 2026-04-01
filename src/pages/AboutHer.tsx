@@ -33,7 +33,7 @@ const AboutHer = () => {
         {/* Description card */}
         <div className="opacity-0 animate-fade-up-delay-1 glass-card glow-rose p-8 sm:p-12 space-y-6">
           <h2 className="font-display text-2xl sm:text-3xl font-light text-foreground">
-            She is <span className="text-gradient-rose italic">extraordinary</span>
+            Izeel is <span className="text-gradient-rose italic">extraordinary</span>
           </h2>
           <div className="space-y-4 font-body text-muted-foreground leading-relaxed font-light">
             <p>
